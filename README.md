@@ -59,7 +59,6 @@ The feature selection techniques used are:
 
 ![Screenshot 2025-04-29 101721](https://github.com/user-attachments/assets/d14d80b0-6102-4077-b278-982a2bd74993)
 
-![Screenshot 2025-04-29 101727](https://github.com/user-attachments/assets/fa22ca6e-c303-42e3-aa94-66f7b19124ba)
 ![Screenshot 2025-04-29 102413](https://github.com/user-attachments/assets/f027ab5c-e705-4597-98ae-b4e338670e14)
 
 ![Screenshot 2025-04-29 102433](https://github.com/user-attachments/assets/649c0207-dd18-429f-8aaa-5c9adf6ff2a3)
